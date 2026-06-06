@@ -184,7 +184,7 @@ h4 {
         flex: 1 1 45%;
     }
     .footer-wrapper {
-        background-image: url("/assets/lrmis-mobile.png");
+        background-image: url("lrmis-mobile.png");
         background-size: cover;
     }
     .bor-navigation h1 {
