@@ -164,16 +164,6 @@ h4 {
     color: #68a779;
 }
 
-.footer-wrapper {
-    z-index: 1;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-image: url("/assets/bor-bg.png");
-    padding-top: 105px;
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
 
 .notdata-msg {
     text-align: center;
@@ -183,9 +173,9 @@ h4 {
     .identity-info {
         flex: 1 1 45%;
     }
-    .footer-wrapper {
+    .footer-wrapper img {
         width:100%;
-        background-size: 100%;
+        display: cover;
     }
     .bor-navigation h1 {
         font-size: 14px;
