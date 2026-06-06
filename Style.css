@@ -185,8 +185,7 @@ h4 {
     }
     .footer-wrapper {
         width:100%;
-        background-image: url("/lrmis-mobile.png");
-        background-size: cover;
+        background-size: 100%;
     }
     .bor-navigation h1 {
         font-size: 14px;
