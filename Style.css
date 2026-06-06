@@ -184,6 +184,7 @@ h4 {
         flex: 1 1 45%;
     }
     .footer-wrapper {
+        width:100%;
         background-image: url("/lrmis-mobile.png");
         background-size: cover;
     }
