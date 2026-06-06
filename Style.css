@@ -175,7 +175,7 @@ h4 {
     }
     .footer-wrapper {
         width:auto;
-        background-size: 100%;
+        background-size: cover;
     }
     .bor-navigation h1 {
         font-size: 14px;
