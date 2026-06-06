@@ -164,10 +164,10 @@ h4 {
     color: #68a779;
 }
 
-  .footer-wrapper {
-    height: 200px;
-    background: red;
-}
+.footer-wrapper {
+        background-image: url("lrmis-mobile.png");
+        background-size: cover;
+    }
 .notdata-msg {
     text-align: center;
 }
