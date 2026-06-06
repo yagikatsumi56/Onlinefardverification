@@ -173,9 +173,9 @@ h4 {
     .identity-info {
         flex: 1 1 45%;
     }
-    .footer-wrapper img {
-        width:100%;
-        display: cover;
+    .footer-wrapper {
+        width:auto;
+        background-size: 100%;
     }
     .bor-navigation h1 {
         font-size: 14px;
